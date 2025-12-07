@@ -44,7 +44,7 @@ A pet project inspired by one of the typical tasks for biomedical engineers from
 
 ## 🔧 Skills, Technologies & Tools
 
-<img align="right" width="50%" alt="Skills" src="https://github.com/user-attachments/assets/fcce5f4c-9a4c-45c8-9184-5f530007a7df" />
+<img align="right" width="45%" alt="Skills" src="https://github.com/user-attachments/assets/fcce5f4c-9a4c-45c8-9184-5f530007a7df" />
 
 ![](https://img.shields.io/badge/Code-Python-Python?logo=Python&logoColor=white&labelColor=%23808080&color=blue)
 ![](https://img.shields.io/badge/Code-R-R?logo=R&logoColor=white&labelColor=%23808080&color=blue)
