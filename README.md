@@ -38,9 +38,9 @@ This project was created as part of DataCon 2025 "Artificial intelligence in the
 ### 🔬 Drug Design for the Treatment of lung sarcoidosis
 The pet-project that is currently being worked on, the results and the program code will be posted here over time.
 ### 💉 Program for modeling the fluid flow of a vessel with a giant aneurysm of the middle cerebral artery (MCA)
-A pet project inspired by one of the typical tasks for biomedical engineers from the MSMU Sechenov website
+A pet-project inspired by one of the typical tasks for biomedical engineers from the MSMU Sechenov website
 ### 💉 Program for modeling hemodynamics of a large circle of blood circulation
-A pet project inspired by one of the typical tasks for biomedical engineers from the MSMU Sechenov website
+A pet-project inspired by one of the typical tasks for biomedical engineers from the MSMU Sechenov website
 
 ## 🔧 Skills, Technologies & Tools
 
