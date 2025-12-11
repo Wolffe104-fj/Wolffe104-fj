@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 <!--
-:blue_heart: 💙      :purple_heart: 💜      :heart: ❤️      :fire: 🔥
+:blue_heart: 💙      :purple_heart: 💜      :heart: ❤️      :fire: 🔥      :warning: ⚠️
 :four_leaf_clover: 🍀      :herb: 🌿      :fallen_leaf: 🍂
-:package: 📦       :gear: ⚙️      :gem: 💎      :wrench: 🔧  
+:package: 📦       :gear: ⚙️      :gem: 💎      :wrench: 🔧      :hammer_and_wrench: 🛠️
 :computer: 💻      :battery: 🔋      :file_folder: 📁      :page_facing_up: 📄
 :pushpin: 📌      :pencil2: ✏️      :closed_book: 📕      :green_book: 📗      :blue_book: 📘      :orange_book: 📙
 :beer:🍺      :beers:🍻      :cocktail:🍸      :chocolate_bar:🍫      :coffee: ☕
@@ -39,10 +39,10 @@ This project was created as part of DataCon 2025 "Artificial intelligence in the
 The pet-project that is currently being worked on, the results and the program code will be posted here over time.
 ### 💉 Program for modeling the fluid flow of a vessel with a giant aneurysm of the middle cerebral artery (MCA)
 A pet-project inspired by one of the typical tasks for biomedical engineers from the MSMU Sechenov website
-### 💉 Program for modeling hemodynamics of a large circle of blood circulation
+### 💉 [Program for modeling hemodynamics of a large circle of blood circulation](https://github.com/Wolffe104-fj/HemodynLCBC)
 A pet-project inspired by one of the typical tasks for biomedical engineers from the MSMU Sechenov website
 
-## 🔧 Skills, Technologies & Tools
+## 🛠️ Skills, Technologies & Tools
 
 <img align="right" width="45%" alt="Skills" src="https://github.com/user-attachments/assets/fcce5f4c-9a4c-45c8-9184-5f530007a7df" />
 
