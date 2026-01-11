@@ -31,7 +31,7 @@ My name is Michael and I'm a student, tutor, and computer scientist. In the past
 
 *These are not all of my projects, but they are the ones that I am not ashamed to discuss. As time goes on, I will attempt to add other projects without an NDA to GitHub when I bring them to mind or finish them "as is".
 
-### 🍀 The relationship between multifactorial diseases and the microbiome (in the oral cavity)
+### 🍀 [The relationship between multifactorial diseases and the microbiome (in the oral cavity)](https://github.com/Wolffe104-fj/BB25_Project_TRbMDatM)
 This project was part of the Bioinformatics Bootcamp 2025 at ITMO University, which was my first experience participating in a hackathon or similar event. Although it was my first time trying something like this, I think the project turned out well, and most importantly, I gained a lot of knowledge and made new friends.
 ### 💊 Drug Design for the Treatment of Alzheimer's Disease
 This project was created as part of DataCon 2025 "Artificial intelligence in the development of pharmaceutical molecules" from the Center for Chemistry and AI at ITMO University. The presented (old) version of the program can be found [here](https://github.com/Wolffe104-fj/DC25_FinalTask_EchoLab).
